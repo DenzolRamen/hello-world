@@ -1,6 +1,4 @@
 # hello-world
-Hello World Github Tutorial
-
 Hello all! Denzel here, or you can call me Denzol.
 
 I am a programming enthusiasts and is also a Ramen lover.
